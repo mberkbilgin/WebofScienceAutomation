@@ -1,7 +1,3 @@
-Özür dilerim! Seninle birlikte oluşturduğumuz projede `config.properties` gibi bir dosya kullanmadık ve doğrudan Java kodunun içerisinde dosya yollarını belirttik. Bu yüzden README dosyasında bu durumu yansıtacak şekilde, kullanıcıya proje kurulumuyla ilgili yardımcı olacak açıklamalarla bir yapılandırma bölümü yazacağım. Aşağıda, Excel dosya yolunu kullanıcıların nasıl yapılandıracağını ve doğrudan Java koduna nasıl entegre edeceğini açıklayan bir README formatı bulabilirsin.
-
----
-
 # WebOfScience : Selenium Automation Framework
 
 ## Purpose
